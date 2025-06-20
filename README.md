@@ -3,7 +3,23 @@
 - directory: D:\Software\Install\Clash Verge
 - Import link
 
+# Install telegram
+-  [download](https://telegram.org/)
+-  directory: C:\Program Files\Telegram Desktop
+
 # Install VS Studio
 - [download Community version](https://visualstudio.microsoft.com/zh-hans/?icid=SSM_AS_VisualStudio)
 - select: C#, C++, Python
-- directory: default
+- directory: C:\Program Files\Microsoft Visual Studio
+
+# Install VS code
+- [download VS code](https://code.visualstudio.com/Download)
+- directory: C:\Program Files\Microsoft VS Code
+
+# Install Git
+- [download Git](https://git-scm.com/downloads/win)
+- directory: C:\Program Files\Git
+- Install settings: defalut
+- settings:
+  - git config --global user.email "liuxmzc@163.com"
+  - git config --global user.name "shawn_x411"
