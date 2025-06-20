@@ -1,22 +1,22 @@
-# Install clash
+# clash
 - [download clash](https://github.com/clash-verge-rev/clash-verge-rev/releases)
 - directory: D:\Software\Install\Clash Verge
 - Import link
 
-# Install telegram
+# telegram
 -  [download](https://telegram.org/)
 -  directory: C:\Program Files\Telegram Desktop
 
-# Install VS Studio
+# VS Studio
 - [download Community version](https://visualstudio.microsoft.com/zh-hans/?icid=SSM_AS_VisualStudio)
 - select: C#, C++, Python
 - directory: C:\Program Files\Microsoft Visual Studio
 
-# Install VS code
+# VS code
 - [download VS code](https://code.visualstudio.com/Download)
 - directory: C:\Program Files\Microsoft VS Code
 
-# Install Git
+# Git
 - [download Git](https://git-scm.com/downloads/win)
 - directory: C:\Program Files\Git
 - Install settings: defalut
