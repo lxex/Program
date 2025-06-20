@@ -21,5 +21,5 @@
 - directory: C:\Program Files\Git
 - Install settings: defalut
 - settings:
-  - git config --global user.email "liuxmzc@163.com"
-  - git config --global user.name "shawn_x411"
+  - git config --global user.email "xxxxxxx@163.com"
+  - git config --global user.name "xxxxx_x411"
