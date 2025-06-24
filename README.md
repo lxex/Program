@@ -25,7 +25,7 @@
   - git config --global user.name "xxxxx_x411"
 
 # Go
-- [download G0](https://studygolang.com/dl)
+- [download Go](https://studygolang.com/dl)
 - directory: C:\Program Files\Go
 - evn
   - GOPATH: D:\Projects
