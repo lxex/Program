@@ -30,5 +30,5 @@
 - evn
   - GOPATH: D:\Projects
   - Path: C:\Program Files\Go\bin
-> go env
+> go env <br>
 > go env -w GOPROXY=https://goproxy.cn,direct
