@@ -23,3 +23,12 @@
 - settings:
   - git config --global user.email "xxxxxxx@163.com"
   - git config --global user.name "xxxxx_x411"
+
+# Go
+- [download G0](https://studygolang.com/dl)
+- directory: C:\Program Files\Go
+- evn
+  - GOPATH: D:\Projects
+  - Path: C:\Program Files\Go\bin
+> go env
+> go env -w GOPROXY=https://goproxy.cn,direct
