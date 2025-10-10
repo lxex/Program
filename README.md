@@ -42,6 +42,17 @@
 > npm -v <br>
 > npx -v <br>
 
+## Visual Studio
+- [download Visual Studio2022](https://visualstudio.microsoft.com/zh-hans/vs/)
+- directory: C:\Program Files\Microsoft Visual Studio\2022\Community
+- select:
+  - .NET Desktop APP
+  - Python
+  - C++ Desktop APP
+  - tools: Data Store, Visual Studio extension development
+
+---
+
 # Program
 ## [DCEDataFetcher](https://github.com/lxex/DCEDataFetcher)
 > cd D:\projects\DCEDataFetcher\DCEDataFetcher<br>
