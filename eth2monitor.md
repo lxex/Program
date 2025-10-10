@@ -1,4 +1,4 @@
-## Development
+## [Development](https://github.com/lxex/go-ethereum)
 1. 合并master分支的geth所有代码
 2. 合并代码时，保留“shawn”关键字注释的代码段，这是私有定制代码
 3. 下载关键包：
@@ -55,12 +55,9 @@
 
 10. 防止Win11进入自动休眠
     “编辑电源选项”设置了GUI设置了两个“从不”后还是会进入睡眠，用一下命令：
-    > powercfg -change -standby-timeout-ac 0
-    
-    > powercfg -change -standby-timeout-dc 0
-    
-    > powercfg -change -hibernate-timeout-ac 0
-    
+    > powercfg -change -standby-timeout-ac 0    
+    > powercfg -change -standby-timeout-dc 0    
+    > powercfg -change -hibernate-timeout-ac 0    
     > powercfg -change -hibernate-timeout-dc 0
 
 11. 关于压缩数据(研究阶段)：
