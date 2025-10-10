@@ -44,6 +44,6 @@
 
 # Program
 ## [DCEDataFetcher](https://github.com/lxex/DCEDataFetcher)
-> cd D:\projects\DCEDataFetcher\DCEDataFetcher
-> dotnet tool install --global Microsoft.Playwright.CLI
-> playwright install
+> cd D:\projects\DCEDataFetcher\DCEDataFetcher<br>
+> dotnet tool install --global Microsoft.Playwright.CLI<br>
+> playwright install<br>
