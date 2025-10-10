@@ -36,3 +36,7 @@
 # nodejs
 - [download nodejs](https://nodejs.org/zh-cn/download)
 - directory: C:\Program Files\
+> where node <br>
+> node -v <br>
+> npm -v <br>
+> npx -v <br>
