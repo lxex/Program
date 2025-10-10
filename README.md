@@ -32,3 +32,7 @@
   - Path: C:\Program Files\Go\bin
 > go env <br>
 > go env -w GOPROXY=https://goproxy.cn,direct
+
+# nodejs
+- [download nodejs](https://nodejs.org/zh-cn/download)
+- directory: C:\Program Files\
